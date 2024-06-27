@@ -1,0 +1,1 @@
+pytest -s -v -m .\test_cases\ -m "sanity or regression"
